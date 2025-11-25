@@ -63,6 +63,7 @@ header nav ul li a:hover{
 .nav a span{
     display: block;
     padding: 12px;
+    text-align: center;
 }
 
 .projet{
